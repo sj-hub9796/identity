@@ -9,6 +9,6 @@ pluginManagement {
 
 include("common")
 include("fabric")
-//include("forge") # TODO: migrate to forge
+//include("forge") # TODO: migrate to neoforge
 
 rootProject.name = "identity"
